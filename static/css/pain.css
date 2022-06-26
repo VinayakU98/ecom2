@@ -70,7 +70,7 @@ h1,h2,h3,h4,h5,h6{
 
 .cart-row{
 	display: flex;
-    align-items: flex-stretch;
+    align-items: flex-start;
     padding-bottom: 10px;
     margin-bottom: 10px;
 	color: rgb(255, 255, 255);
@@ -100,12 +100,13 @@ h1,h2,h3,h4,h5,h6{
 
 
 .hidden{
-	display: none!important;
+	display: none !important;
 }
 .my1{
 color: white;
 font-weight: bold;
 }
+
 .my2{
 	width: 1000px;
 	height: 1000px;
